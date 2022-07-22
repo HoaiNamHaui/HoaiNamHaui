@@ -13,7 +13,7 @@
 <p>- 📫 You can contact me at: hoainamhaui.work@gmail.com<img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="40" height="40"> </img></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoaiNamHauig&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoaiNamHaui&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoaiNamHaui&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
