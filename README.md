@@ -6,7 +6,7 @@
   </h2>
 </div>
 
-![](https://komarev.com/ghpvc/?username=HoaiNamHauig&color=green)
+![](https://komarev.com/ghpvc/?username=HoaiNamHaui&color=green)
 
 <p>- 🌱 I’m currently learning HTML, CSS, JavaScript, VueJS, C# and C++ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" height="50"></img></p>
 <p>- 🔭 I’m currently interning in MISA <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="40" height="40"> </img></p>
